@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/bootsteps/commit/f2e788edb182d54037c5f2b9fad28dc81f701f8e",
       "git:hexsha": "f2e788edb182d54037c5f2b9fad28dc81f701f8e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
