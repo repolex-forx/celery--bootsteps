@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "celery",
+  "repo": "bootsteps",
+  "versions": [
+    {
+      "commit": "f2e788edb182d54037c5f2b9fad28dc81f701f8e",
+      "parsed_at": "2026-10-11T06:02:11.622645+00:00",
+      "filetree": "filetree/f2e788edb182d54037c5f2b9fad28dc81f701f8e.nq.gz",
+      "blobs": [
+        "blob/f00ffee27618b227fc083f021aa26cc8363e0399.nq.gz",
+        "blob/8d187394bd96938772ce4bbbdb4e78287c3da350.nq.gz",
+        "blob/cfc30ca6802807cfa04dde39d0026d4ddcc6ff78.nq.gz",
+        "blob/4f3fe5a430e69d0dedf5cff9e22183da6d977785.nq.gz",
+        "blob/5efdea7e03cf17e4f69036ea14b20549b6a15505.nq.gz",
+        "blob/dbf04ace6a2c0e722c304b6359694004938284fa.nq.gz",
+        "blob/8396721f64bc59a5cfddd64b585d56ddc698c1a6.nq.gz",
+        "blob/17069323ca1ab9c887bb92c1646a6bc4b8a20766.nq.gz",
+        "blob/bde40719bd3535ad07d3e9f8e8533d00174a975c.nq.gz",
+        "blob/5f4a13a225db317dbb3f4cb3ca1e5dc5b10eec2a.nq.gz",
+        "blob/e5bde9f42b9eeaa18828bc21d7fe32b63b665d52.nq.gz",
+        "blob/86e08d98fc31304fe63aea0928e057734c0765bb.nq.gz",
+        "blob/33d97369254b965c3e9cf4f013af3a4d8de32a96.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/16a83da6ed34bfc907baecbfa603b6d83e640097.nq.gz",
+        "blob/3ea3c81d97a8ca7b53a8d64f2423e50f451a44d6.nq.gz",
+        "blob/94f2d3a60eb434fd707531392b00ebd941fa96e0.nq.gz",
+        "blob/0e3be623f5a772d15eb4c81f9da76f524aa6316c.nq.gz",
+        "blob/34abaf2123b0874dd559738c633638d6ca60ad3c.nq.gz",
+        "blob/2ef12fe33c06121d911bb40507e7e6f164d06e8b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
